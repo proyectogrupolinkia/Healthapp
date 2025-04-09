@@ -24,7 +24,7 @@ Este proyecto fue desarrollado como parte del **proyecto final** del ciclo de **
 - **Firebase**:
   - Firestore / Realtime Database
   - Cloud Storage (si se usan imágenes u otros archivos)
-- **Material Design Components** – Para el diseño de la interfaz
+- **Material Design Components** – Para el diseño de la interfaz.
 - **Jetpack Libraries** – ViewModel, LiveData, Navigation, etc.
 
 
