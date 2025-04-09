@@ -1,0 +1,2 @@
+C:\Users\agosd\AndroidStudioProjects\app\src\main\java\com\tusalud\healthapp\LoginScreen.kt
+C:\Users\agosd\AndroidStudioProjects\app\src\main\java\com\tusalud\healthapp\MainActivity.kt

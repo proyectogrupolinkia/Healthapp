@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.tusalud.healthapp-mergeDebugResources-71:/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\agosd\\.gradle\\caches\\8.10.2\\transforms\\c1b4b5de8f03db67ddc9a7dacb5267e4\\transformed\\appcompat-1.6.1\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}
